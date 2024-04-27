@@ -9,11 +9,12 @@ Contains most of the features listed in [the wiki article](https://minecraft.wik
 * Modification to structure loot tables to make certain enchanted books more common
 * Changes to Librarian trades
 * Changes to Armourer trades
+* Charges to Cartographer trades (including addition of Villager/Swamp Hut/Jungle Temple maps)
 
-I haven't added the cartographer trades for the villager maps, not sure if that can be done with a simple datapack.  
+~~I haven't added the cartographer trades for the villager maps, not sure if that can be done with a simple datapack.~~  
 I also didn't port the Wandering Trader changes, because who uses the Wandering Trader?
 
-Extra changes that aren't in the original experiment:
+Extra changes I added that aren't in the original experiment:
 * Changes to Toolsmith trades
 * Changes to Weaponsmith trades
 
@@ -23,7 +24,6 @@ This datapack is designed to work with a Fabric mod:
 
 * [VillagerConfig](https://modrinth.com/mod/villagerconfig)
 * [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
-
 
 ## Installation
 
